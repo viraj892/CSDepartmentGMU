@@ -23,9 +23,6 @@ import services.DataProcessor;
 public class StudentDAO extends HttpServlet {
 	private static final long serialVersionUID = 102831973239L;
 
-	/**
-	 * @see HttpServlet#HttpServlet()
-	 */
 	public StudentDAO() {
 		super();
 		// TODO Auto-generated constructor stub
